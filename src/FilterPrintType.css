@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+.print-type-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+

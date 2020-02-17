@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.book-type-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.filters{
+    display: flex;
+    justify-content: center;
+    background-color: lightgray;
+}

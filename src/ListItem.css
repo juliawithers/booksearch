@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.list-item{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 250px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
